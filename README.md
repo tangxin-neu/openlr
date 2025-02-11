@@ -15,6 +15,7 @@ To build all the modules go to the project folder:
 mvn clean install
 ```
 
+
 To build modules individually go to module folder:
 
 
